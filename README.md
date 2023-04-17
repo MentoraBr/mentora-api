@@ -57,6 +57,6 @@ $ npm prisma init
 ```
 ## TO-DO
 
-- [] Criar migrations para configurar o banco
-- [] Criar endpoint para mostrar a listagem padrão da tela pesquisa de mentores
-- [] Criar endpoint para fazer a pesquisa de mentores
+- [ ] Criar migrations para configurar o banco
+- [ ] Criar endpoint para mostrar a listagem padrão da tela pesquisa de mentores
+- [ ] Criar endpoint para fazer a pesquisa de mentores
